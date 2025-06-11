@@ -1,0 +1,10 @@
+PyTorch>=2.0
+Torchvision
+OpenCV
+Pillow
+NumPy
+Matplotlib
+tqdm
+einops
+timm
+flwr
