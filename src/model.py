@@ -1,9 +1,6 @@
 import torch.nn as nn
 
-# IMPORTANT: You need to integrate the actual Restormer model code here.
-# Please copy the relevant classes and functions from the official Restormer GitHub repository (swz30/Restormer)
-# into this file. Ensure all necessary imports for the Restormer model are also included.
-# For example, you might have classes like 'Restormer' or 'Restormer_arch'.
+
 
 # Placeholder for the Restormer model. Replace this with the actual Restormer implementation.
 class Restormer(nn.Module):
