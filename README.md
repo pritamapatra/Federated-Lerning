@@ -1,5 +1,5 @@
 
-# Image Restoration Model Using Restormer with Federated Learning
+# Federated Learning for Multi-weather Image Restoration
 
 ## Project Overview
 This project aims to develop a federated learning system using the Restormer architecture to restore images degraded by haze, rain, or snow.
